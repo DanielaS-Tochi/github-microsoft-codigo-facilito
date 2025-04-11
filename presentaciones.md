@@ -199,4 +199,4 @@ Hola soy Puroh de Colombia, me gusta programar, uso python y otros lenguajes aun
 Hola, soy Félix Rodríguez, desarrollador web FullStack. Hace casi dos años decidí aprender a programar y desde entonces he estado explorando y mejorando mis habilidades en desarrollo web. Estoy emocionado de colaborar y aprender junto a ustedes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FelixRodriguezG-black?logo=github&style=for-the-badge)](https://github.com/FelixRodriguezG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelixRodriguezG-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felixrodriguezg/)
-**Conectamos?**  
+**¿Conectamos?**
