@@ -200,3 +200,7 @@ Hola, soy Félix Rodríguez, desarrollador web FullStack. Hace casi dos años de
 
 [![GitHub](https://img.shields.io/badge/GitHub-FelixRodriguezG-black?logo=github&style=for-the-badge)](https://github.com/FelixRodriguezG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelixRodriguezG-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felixrodriguezg/)
 **¿Conectamos?**  
+---
+### David E. Barrera
+
+Hola a todos! Soy David Barrera de Guayaquil, Ecuador. Trabajo en desarrollo web desde hace ya 5+ años. Git y GitHub lo he aprendido a porrazos, asi que espero afinar mis conocimientos y expandirlos.
