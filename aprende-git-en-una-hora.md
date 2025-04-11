@@ -76,8 +76,17 @@ git push -u origin master
 git pull origin master
 ```
 
----
+## 
+```bash
+git stash           # Guardar cambios temporales
+git stash list      # muestra una lista de todos los cambios que has guardado temporalmente en el stash.
+git stash apply     # aplica los cambios guardados en el stash al área de trabajo actual.
+git stash clear     # elimina todos los stashes almacenados en el repositorio.
+git stash pop       # revierte los cambios guardados en el stash
 
+```
+
+---
 📚 **Créditos**: Este resumen está basado en el tutorial original publicado en freeCodeCamp por Juan C. Guaña.  
 Consulta el artículo completo para más detalles y explicaciones:  
 👉 [https://www.freecodecamp.org/espanol/news/aprende-git-y-control-de-versiones-en-una-hora/](https://www.freecodecamp.org/espanol/news/aprende-git-y-control-de-versiones-en-una-hora/)
