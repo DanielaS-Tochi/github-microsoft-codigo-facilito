@@ -231,3 +231,18 @@ Estoy lista para aprender y ayudar en todo lo que pueda al grupo, no dudes en es
 <h2>NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya!</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
+
+--
+### Andrés Vinces [(@vincesmandres)](https://www.instagram.com/vincesmandres)
+
+¡Hola! Soy Andrés, de Ecuador. Ingeniero Civil, Data Science Jr y un AstroGeoGeek 🌌  
+Actualmente exploro el fascinante mundo del **Data Science & Machine Learning**.
+
+🔧 Estoy desarrollando una app en Python que genera **espectros sísmicos** según la normativa ecuatoriana.  
+📂 Puedes verla aquí → [Repositorio en GitHub](https://github.com/vincesmandres/Code_Normativa.git)
+
+💻 Experiencia en: **C++**, **Python**, **R**, **Julia**, **JavaScript**
+
+Saludos!
+
+--
