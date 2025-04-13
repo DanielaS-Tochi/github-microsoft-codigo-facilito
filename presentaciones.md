@@ -219,3 +219,15 @@ Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
 ### Angel Martínez (@angelmartz)
 
 Hola, mi nombre es Angel, soy de la Ciudad de México, actualmente estudio Ingeniería en Sistemas en la Universidad UK, soy programador backend, manejo PHP, Java, Python y Javascript
+
+---
+### Tania Rivera (taniariveradev/hackerfashion)
+¡Hola! Soy Tania Rivera, tambien conocida como "hackerfashion" de México. 👽
+Actualmente trabajo como desarrolladora Android pero estoy aprendiendo sobre desarrollo iOS, IA, Unity y Unreal Engine (espero algún día poder hacer mi propio videojuego)
+Soy una programadora en constante formación, me encanta poder ayudar a los demás y a la vez aprender de las personas.
+Soy apasionada por el mundo geek, los videojuegos, la seguridad informática, cómics y gadgets.
+Estoy lista para aprender y ayudar en todo lo que pueda al grupo, no dudes en escribirme Let's GoO!! 💻 📲 👽
+
+<h2>NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya!</h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
