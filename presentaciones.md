@@ -228,6 +228,6 @@ Soy una programadora en constante formación, me encanta poder ayudar a los dem�
 Soy apasionada por el mundo geek, los videojuegos, la seguridad informática, cómics y gadgets.
 Estoy lista para aprender y ayudar en todo lo que pueda al grupo, no dudes en escribirme Let's GoO!! 💻 📲 👽
 
-<h2>NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya!</h2>
+<h2>NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya!!</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
