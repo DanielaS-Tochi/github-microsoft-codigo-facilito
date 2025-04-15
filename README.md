@@ -16,9 +16,13 @@ Este es un espacio abierto y comunitario para aprender a usar Git y GitHub en eq
 
 Encontrarás recursos útiles sobre certificación GitHub en el archivo [recursos.md](recursos.md).
 
+## Aprende en una hora
+
+Si estas empezando y no tienes mucho tiempo, entonces [Aprende git en una hora](aprende-git-en-una-hora.md).
+
 ## ¿Ideas para proyectos?
 
-Podés proponer una idea en el archivo `ideas.md`. ¡Todo suma!
+Podés proponer una idea en el archivo [ideas.md](ideas.md). ¡Todo suma!
 
 ## Reglas simples
 
@@ -44,4 +48,9 @@ Nada está mal, ¡estamos acá para aprender!
 
 ## [Licencia](https://github.com/LucioD3v/github-microsoft-codigo-facilito/blob/main/LICENSE)
 
+## 👥 Comunidad de colaboradores
+
+Gracias a quienes están participando activamente:
+
+![Contributors](https://contrib.rocks/image?repo=DanielaS-Tochi/github-microsoft-codigo-facilito)
 
