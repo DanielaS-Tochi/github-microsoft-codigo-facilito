@@ -282,12 +282,9 @@ Estoy compartiendo parte de mi aprendizaje y proyectos en GitHub, donde intento 
 
 Un saludo para todos y mucho éxito en este camino del desarrollo.
 
+
 ---
-(Agregá tu nombre aquí con una breve presentación)
-
-
-=======
-###Sergio Rodriguez Rivero 
+### Sergio Rodriguez Rivero 
 Hola, soy diseñador gráfico y UXUI, estudiando front end. Me encantó la propuesta de Daniela, es una capa, y me ayudo a lograr que suba esta presentación.
 
 Algunas de mis redes:
@@ -296,4 +293,39 @@ Algunas de mis redes:
 
  ¡Exitos a todos!
 
+---
 
+### 👋 ¡Hola! Soy Jesús Oviedo
+
+🎯 Data Engineer & ML Enthusiast | 📍 Paraguay  
+🧠 Apasionado por los datos, el aprendizaje automático y la ingeniería moderna de datos
+
+Soy Analista de Sistemas y Desarrollador con más de 10 años de experiencia profesional, actualmente enfocado en la **Ingeniería de Datos**, el **Machine Learning** y la **automatización de procesos**.  
+Mi objetivo es construir soluciones basadas en datos que generen impacto real, usando herramientas modernas.
+
+Me motiva aprender continuamente y compartir ese conocimiento a través de proyectos open source y artículos técnicos.
+
+
+#### 🛠️ Stack Técnico
+
+**Lenguajes:** Python · Java · SQL · R · C#  
+**ML / DS:** Scikit-learn · Pandas · Numpy · TensorFlow · MLflow · Evidently  
+**Pipelines / Orquestación:** Mage · Kestra · Airflow  
+**Transformación:** dbt  
+**Bases de datos:** PostgreSQL · SQL Server · BigQuery · MongoDB · Cassandra  
+**Infraestructura:** Docker · Terraform · GitHub Actions · Git  
+**Cloud:** GCP · AWS  
+**DataViz:** Looker Studio  
+**Otros:** API REST · Soap · JIRA · Confluence
+
+#### ✍️ También escribo sobre datos
+
+📖 Encuentra mis artículos en [Medium](https://medium.com/@jesusoviedoriquelme), donde comparto guías prácticas sobre herramientas como dbt, DuckDB, Kestra y más.
+
+#### 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jesusoviedoriquelme/)  [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@jesusoviedoriquelme)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/jesusoviedo)
+
+---
+
+(Agregá tu nombre aquí con una breve presentación)
