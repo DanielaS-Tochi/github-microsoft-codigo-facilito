@@ -376,5 +376,19 @@ Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/guillermo-aguilera-
 Hola a todos, mi nombre es **Diego Muñoz** soy chileno 🇨🇱 y me dedico al desarrollo de software hace ya casi 3 años y medio, soy estudiante de ingeniería en desarrollo de software, fanático de la ciberseguridad 👨🏻‍💻, la nube ☁, el IOT 🦾 y los misterios del universo 🛸👽 😁, mayormente he sido autodidacta y así logré llegar a trabajar como desarrollador, con esté bootcamp busco reforzar conocimiento y lograr obtener la certificación 🤓
 
 ---
+
+### Christopher Maldonado
+
+¡Hola, mundo! 🌎🤝😎 mi nombre es **Christopher Maldonado**, tengo 28 años🥸, soy ecuatoriano🇪🇨, I am a English teacher y actualmente estoy residiendo en Perú🇵🇪🥳. En la actualidad me dedico a estudiar programación especializada en Back-End de Alura Latam G8, estoy muy contento y emocionado por completar este viaje en el mundo Tech🧑🏻‍💻. Como todo buen programador que se respeta, estoy en la búsqueda de cursos a más no poder, por esa razón es que tenemos el gusto de conocernos. Espero poder colaborar con todos hasta el final de este bootcamp, estoy seguro de que en algún momento nos encontraremos en el trabajo de nuestros sueños🤑.
+
+Les comparto mis redes sociales para que podamos hacer Networking y mantengamos en contacto para poder ayudarnos mutuamente en nuestro camino por convertirnos en los mejores DEVs o próximos creadores del app del momento:
+
+**LinkedIn:** https://www.linkedin.com/in/devchristophermaldonado?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+**GitHub:** https://github.com/Christopherjocizz
+
+**Buena suerte a todos💪😎**
+
+---
   
 (Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
