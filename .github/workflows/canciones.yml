@@ -3,7 +3,7 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - 'playlist.src'
+      - 'idea/playlist/playlist.src'
 
 permissions:
   contents: write
@@ -17,14 +17,14 @@ jobs:
 
     - name: Escribir
       run: |
-        echo "# 🎼🎼 La Radio 🎼🎼" > Playlist.md
-        echo "## de estudiantes de GitHub en CódigoFacilito" >> Playlist.md
-        cat playlist.src | awk -F ';' '{printf "%d. %s (%s)\n", NR, $1, $2 }' >> Playlist.md
+        echo "# 🎼🎼 La Radio 🎼🎼" > ideas/playlist/Playlist.md
+        echo "## de estudiantes de GitHub en CódigoFacilito" >> ideas/playlist/Playlist.md
+        cat playlist.src | awk -F ';' '{printf "%d. %s (%s)\n", NR, $1, $2 }' >> ideas/playlist/Playlist.md
 
-        echo "" >> Playlist.md
-        echo "¡Para incluir canciones no edites directamente este fichero!" >> Playlist.md
-        echo "¡Hazlo incluyendo una línea a \`playlist.src\`!" >> Playlist.md
-        echo "" >> Playlist.md
+        echo "" >> ideas/playlist/Playlist.md
+        echo "¡Para incluir canciones no edites directamente este fichero!" >> ideas/playlist/Playlist.md
+        echo "¡Hazlo incluyendo una línea a \`playlist.src\`!" >> ideas/playlist/Playlist.md
+        echo "" >> ideas/playlist/Playlist.md
 
     - name: Configurar Git
       run: |
@@ -35,7 +35,7 @@ jobs:
     - name: Commit y push
       run: |
         git checkout -B action-playlist
-        git add Playlist.md
+        git add ideas/playlist/Playlist.md
         git commit -m "🎼🎼 La Radio 🎼🎼"
         git push -f origin action-playlist
       env:

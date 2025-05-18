@@ -61,7 +61,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 3. Haz clic en **Enable Two-Factor Authentication**. Así se verá esta sección **antes de activarla**:
 
 <div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/antes-activar-2fa.png" alt="Antes de activar 2FA" width="500px"/>
+   <img src="./recursos/Aplicar-a-github-education/antes-activar-2fa.png" alt="Antes de activar 2FA" width="500px"/>
 </div>
 
 ### Proceso de activación (3 pasos):
@@ -71,7 +71,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 - **Paso 3**: Confirmación. Tras completar el proceso, verás una interfaz como la siguiente:
 
 <div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/despues-activar-2fa.png" alt="Después de activar 2FA" width="500px"/>
+   <img src="./recursos/Aplicar-a-github-education/despues-activar-2fa.png" alt="Después de activar 2FA" width="500px"/>
 </div>
 
 
@@ -88,7 +88,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 2. Completa el formulario de **Billing Information** con tu nombre completo (como figura en tu documento académico). Una vez completado, verás una vista como la siguiente:
 
 <div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/formulario-billing.png" alt="Formulario diligenciado" width="500px"/>
+   <img src="./recursos/Aplicar-a-github-education/formulario-billing.png" alt="Formulario diligenciado" width="500px"/>
 </div>
 
 3. **NO ES OBLIGATORIO** completar la sección **Payment Methods**.
@@ -125,7 +125,7 @@ Una vez enviada la solicitud, puede pasar por los siguientes estados:
 Estado inicial tras enviar la solicitud. Indica que está en proceso de revisión.  
 
 <div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/estado-pendiente.png" alt="Estado pendiente" width="500px"/>
+   <img src="./recursos/Aplicar-a-github-education/estado-pendiente.png" alt="Estado pendiente" width="500px"/>
 </div>
 
 ### 2. Denegado
@@ -135,18 +135,18 @@ Indica que la solicitud fue rechazada. Se incluye el motivo del rechazo.
 **Ejemplo personal:** En mi caso, la primera aplicación fue rechazada por no tener habilitado el 2FA ni completar la información de facturación.  
 
 <div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/estado-denegado.png" alt="Estado denegado" width="500px"/>
+   <img src="./recursos/Aplicar-a-github-education/estado-denegado.png" alt="Estado denegado" width="500px"/>
 </div>
 
 ### 3. Aprobado
 
 Indica que la aplicación fue aceptada. Se mostrará la fecha hasta la cual podrás disfrutar de los beneficios.
 
-<div style="text-align: center;"> <img src="./Aplicar-a-github-education/estado-aprobado.png" alt="Estado aprobado" width="500px"/> </div>
+<div style="text-align: center;"> <img src="./recursos/Aplicar-a-github-education/estado-aprobado.png" alt="Estado aprobado" width="500px"/> </div>
 
 Entre 24 y 48 horas después de la aprobación, tendrás acceso a una vista más detallada de los recursos disponibles.
 
-<div style="text-align: center;"> <img src="./Aplicar-a-github-education/estado-aprobado-2.png" alt="Estado aprobado detallado" width="500px"/> </div>
+<div style="text-align: center;"> <img src="./recursos/Aplicar-a-github-education/estado-aprobado-2.png" alt="Estado aprobado detallado" width="500px"/> </div>
 
 ---
 
