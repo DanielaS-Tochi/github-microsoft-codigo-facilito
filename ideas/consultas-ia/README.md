@@ -1,4 +1,4 @@
-![Portada Consultas a la IA](/res/consultasia.gif)
+![Portada Consultas a la IA](/recursos/consultasia.gif)
 
 # CONSULTAS REALIZADAS A LA IA
 

@@ -51,6 +51,12 @@ En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y adema
 
 ---
 
+### Luis D
+Hola a todos, soy de santiago de chile, **apasionado** por el mundo **linux, python y seguridad**. Actualmente soy administrador de plataformas senior enfocado en una herramienta de monitoreo llamada Zabbix.
+En mis ratos libres me gusta la lectura y caminatas, ideal si es en cerro tipo treeking. También estoy estudiando para aprender del mundo DevOps con herramientas de iac como `terraform` `git` y por su puesto github Actions
+
+---
+
 ### Rel
 
 Hola, soy Rel Guzmán, de Perú. Programo en Python y JavaScript. Me enfoqué en la etapa de diseño y frontend hasta ahora y trabajo con los stacks MERN / PERN / MENN para cosas web. Sé mucho sobre la IA teórica. Me gustaría profundizar en DevOps con Github, si es que de eso se trata el bootcamp.
@@ -93,7 +99,7 @@ Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo
 
 ### Frantizek
 
-**  🪩 ¡Hola Mundo!, soy Francisco... 🎉  **
+** 🪩 ¡Hola Mundo!, soy Francisco... 🎉 **
 
 > 🚀 "Si el código compila a la primera, sospecha."
 
@@ -193,6 +199,7 @@ Hola, soy [Jose Rodriguez](https://www.linkedin.com/in/jose-eduardo-rodriguez-fe
 Listo para aprender y ayudar en todo lo que pueda grupo 💪!!
 
 ---
+
 ### [Puroh](https://github.com/puroh)
 
 Hola soy Puroh de Colombia, me gusta programar, uso python y otros lenguajes aun estoy aprendiendo, listo para aprender con y de ustedes en comunidad.
@@ -356,7 +363,6 @@ Hola, soy Alejandro Sepúlveda, soy de México. Ingeniero en sistemas computacio
 Pueden contactarme en Threema: TX8WPBRS, y [GitHub](https://github.com/sptral).
 Sera un gusto conocerte.
 
-
 ---
 
 ### Guillermo Aguilera Hurtado (@Best-Gagil)
@@ -388,7 +394,7 @@ Les comparto mis redes sociales para que podamos hacer Networking y mantengamos 
 
 **Buena suerte a todos💪😎**
 
---- 
+---
 
 ### Javier Arreortúa
 
@@ -396,6 +402,57 @@ Hola, soy programador desde hace ya 30 años, poco más, pero bueno, soy program
 
 **Happy coding**
 
---- 
+---
 
-(Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
+### Ronald Jaime
+
+**¡Hola a todos los lectores!** 👋
+
+Mi nombre es Ronald, vivo en Perú, y soy estudiante de la carrera de **Computación e Informática**, enfocado en el desarrollo de software 💻. Actualmente me especializo en el desarrollo Back End, especialmente con **Java** ☕, ya que es el lenguaje que más me gustó por su sintaxis, legibilidad y tipado. Además, también tengo experiencia con **.NET, SQL Server y MySQL**.
+
+Soy más de ser autodidacta, me gusta investigar e ir avanzando con los temas en diversas plataformas. Eso me llevó a formar parte del programa **ONE (Oracle Next Education)**, desarrollado por Alura Latam junto a Oracle, en el cual fortalecí mis conocimientos en diversas áreas.
+
+He realizado proyectos académicos, propios y grupales, pero me gustaría formar parte de proyectos con diferentes personas del mundo 🌍 para afianzar mi experiencia, divertirnos y apoyarnos. **¡Éxitos a todos!** ✨
+
+✨ **LinkedIn:** www.linkedin.com/in/ronaldjaimeduran
+
+---
+
+### Daniel Gomez ([Daga321](https://www.github.com/Daga321)) 👨‍💻
+
+¡Hola a todos! 👋
+
+Soy **Daniel Gómez**, orgullosamente colombiano y estudiante de **Ingeniería de Sistemas y Computación** en la _Universidad Pedagógica y Tecnológica de Colombia (UPTC)_, actualmente en etapa de **terminación académica**.
+
+Durante mi formación he desarrollado habilidades en tecnologías como **Java**, **Python** y **C#**, y aprendí a utilizar **GitHub** por cuenta propia, explorando tutoriales, foros y muchos intentos fallidos 😅. Y es por ello que estoy agradecido con este curso, ha sido una excelente oportunidad para fortalecer ese conocimiento 🚀.
+
+Además, estoy trabajando en la creación de mi propia **startup** llamada [**Hypereds**](https://www.github.com/Hypereds), enfocada en desarrollo de software y servicios de hosting, junto con compañeros y docentes de mi universidad. Aplicando lo aprendido en este curso, construí una organización en GitHub para gestionar nuestros repositorios, lo cual ha mejorado significativamente nuestra logística de trabajo 🛠️.
+
+También ha sido útil para separar de forma clara mis proyectos personales de los de la organización, un gran paso hacia un perfil más profesional 💼.
+
+---
+
+### Jorge Villalobos
+
+Hola a todos, soy estudiante de Matematicas y me encanta resolver problemas, estoy capacitandome para ciencia de datos.
+
+---
+
+### Marta Vilaseca
+
+¡Hola! 👋🏻 Soy **Marta** y os saludo desde **España**, concretamente desde un pueblo a unos kilómetros de Barcelona 😄  
+Después de unos años dedicándome al desarrollo web y de tomarme un descanso del sector por circunstancias varias, hace un tiempo que decidí volver (lo echaba de menos). Como sabéis los estándares del desarrollo avanzan a una velocidad de vértigo, así que decidí que me tocaba invertir un tiempo ponerme al día... ¡y en ello sigo! Terminé un bootcamp full stack el pasado octubre y sigo formándome y aprendiendo, siempre buscando oportunidades de colaboración y proyectos donde poder aportar 👩🏻‍💻
+
+El **desarrollo Frontend** es mi punto fuerte y "mi casa" como me gusta decir, pero soy mente inquieta y me gusta tocar un poco de todo; así que cuando puedo sigo sumando a mis nociones de **UX/UI** y sumando a mis conocimientos de **backend**.
+
+Soy una _geek_ de mucho cuidado. Me encantan los videojuegos y los juegos de mesa, el arte, los animales (especialmente mis gatos) y aprender cosas nuevas en general (pero especialmente idiomas! Actualmente estoy estudiando para sacarme el N5 de japonés 💪🏻).
+
+Mil gracias a Daniela por la fantástica iniciativa 🧡 ¡Encantada de estar por aquí y poder colaborar con todos! Os dejo mis redes para que podáis seguirme y contactar conmigo si os apetece 😊
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/marta-vilaseca) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martavilaseca/) [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/martavilaseca) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/martavilaseca.bsky.social)
+
+---
+
+### Rosa
+
+¡Hola! Soy Rosa y vivo en España. Estoy aprendiendo python, ciencia de datos, IA y ¡agradezco la oportunidad de poder practicar GitHub en equipo!

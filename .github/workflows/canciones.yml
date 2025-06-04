@@ -1,0 +1,42 @@
+name: Playlist colaborativa
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - 'idea/playlist/playlist.src'
+
+permissions:
+  contents: write
+
+jobs:
+  Crear-Playlist:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.7
+
+    - name: Escribir
+      run: |
+        echo "# 🎼🎼 La Radio 🎼🎼" > ideas/playlist/Playlist.md
+        echo "## de estudiantes de GitHub en CódigoFacilito" >> ideas/playlist/Playlist.md
+        cat playlist.src | awk -F ';' '{printf "%d. %s (%s)\n", NR, $1, $2 }' >> ideas/playlist/Playlist.md
+
+        echo "" >> ideas/playlist/Playlist.md
+        echo "¡Para incluir canciones no edites directamente este fichero!" >> ideas/playlist/Playlist.md
+        echo "¡Hazlo incluyendo una línea a \`playlist.src\`!" >> ideas/playlist/Playlist.md
+        echo "" >> ideas/playlist/Playlist.md
+
+    - name: Configurar Git
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+    - name: Commit y push
+      run: |
+        git checkout -B action-playlist
+        git add ideas/playlist/Playlist.md
+        git commit -m "🎼🎼 La Radio 🎼🎼"
+        git push -f origin action-playlist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -11,22 +11,26 @@ Este es un espacio abierto y comunitario para aprender a usar Git y GitHub en eq
 
 1. Hacé un **fork** o cloná el repo.
 2. Creá una rama con tu nombre o nombre de usuario: `rama-tu-nombre`
-3. Agregá tu presentación en el archivo `presentaciones.md`
+3. Agregá tu presentación en el archivo `recursos/presentaciones.md`
 4. Subí tus cambios con un **pull request**
 5. Comentá, aportá, aprendé y disfrutá del proceso.
 
 ## Recursos
 
-Encontrarás recursos útiles sobre certificación GitHub en el archivo [recursos.md](recursos.md).
+Encontrarás recursos útiles sobre certificación GitHub en el archivo [recursos.md](recursos/recursos.md).
 
 ## Aprende en una hora
 
-* Si estas empezando y no tienes mucho tiempo, entonces [Aprende git en una hora](1-aprende-git-en-una-hora.md).
-* Si necesitas algo mas complejo entonces avanza a la [Segunda hora](2-aprende-git-en-la-segunda-hora.md).
+* Si estas empezando y no tienes mucho tiempo, entonces [Aprende git en una hora](recursos/1-aprende-git-en-una-hora.md).
+* Si necesitas algo mas complejo entonces avanza a la [Segunda hora](recursos/2-aprende-git-en-la-segunda-hora.md).
+
+## Proyectos
+
+[Figuras basicas](recursos/proyectos/figuras-basicas.md)
 
 ## ¿Ideas para proyectos?
 
-Podés proponer una idea en el archivo [ideas.md](ideas.md). ¡Todo suma!
+Podés proponer una idea en el archivo [ideas/ideas.md](ideas/ideas.md). ¡Todo suma!
 
 ## Reglas simples
 
@@ -39,6 +43,7 @@ Podés proponer una idea en el archivo [ideas.md](ideas.md). ¡Todo suma!
 Nada está mal, ¡estamos acá para aprender!
 
 ¡Vamos a hacer de esto una linda experiencia para todos!
+
 
 ## Desarrollado por
 
