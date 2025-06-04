@@ -50,7 +50,7 @@ $ git reset –soft HEAD~1 # deshace el commit, pero mantiene los cambios realiz
 ```
 • Para descartar cambios:
 ```bash
-$ git reset –hard HEAD~1 # desaparece totalemnte y son irrecuperables los cambios
+$ git reset –hard HEAD~1 # desaparece totalmente y son irrecuperables los cambios
 ```
 • Para modificar el commit (mensaje o agregar cambios):
 ```bash
