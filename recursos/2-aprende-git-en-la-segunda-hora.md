@@ -7,6 +7,8 @@ Guia practica de comandos utilices para aprender en git.
 - [Comando Bisect](#comando-bisect)
 - [Guía de cómo deshacer el último commit con git](#guía-de-cómo-deshacer-el-último-commit-con-git)
 - [Comando cherry-pick](#cherry-pick)
+- [Comando diff](#comando-diff)
+- [Comando show](#comando-show)
 
 ---
 
@@ -44,11 +46,11 @@ Si no has hecho push:
 
 • Para conservar cambios:
 ```bash
-$ git reset –soft HEAD~1
+$ git reset –soft HEAD~1 # deshace el commit, pero mantiene los cambios realizados en el area de staging
 ```
 • Para descartar cambios:
 ```bash
-$ git reset –hard HEAD~1
+$ git reset –hard HEAD~1 # desaparece totalmente y son irrecuperables los cambios
 ```
 • Para modificar el commit (mensaje o agregar cambios):
 ```bash
@@ -97,3 +99,74 @@ El comando git cherry-pick copia uno o más commits específicos de una rama a o
 # añade los commits a la rama donde estoy parado
 $ git cherry-pick <Commit1> <Commit2> <...> 
 ```
+
+
+## Comando diff
+
+Partiendo del comando diff
+```bash
+# añade los commits a la rama donde estoy parado
+$ git diff
+```
+Se obtiene como respuesta:
+
+```bash
+diff --git a/1-aprende-git-en-una-hora.md b/1-aprende-git-en-una-hora.md
+index 3e40ad3..40474b2 100644
+--- a/1-aprende-git-en-una-hora.md
++++ b/1-aprende-git-en-una-hora.md
+@@ -61,7 +61,10 @@ git checkout -b nueva-rama
+ 
+ ```bash
+ git log           # Ver historial
++git log -n 5      # ver los ultimos 5 commits
+ git log --oneline # Ver resumen
++git log --oneline -n 3 # combinacion y resumen
++git log --format=[short full medium] # elegir uno según cuanta información se necesita
+ git revert <commit-id>
+ ```
+
+En esta linea se tiene en staged el archivo a/1-aprende-git-en-una-hora.md, y se tienen nuevos cambios en b/1-aprende-git-en-una-hora.md
+```bash
+ diff --git a/1-aprende-git-en-una-hora.md b/1-aprende-git-en-una-hora.md
+```
+
+Estos son los identificadores de la rama que se van a fusionar
+```bash
+index 3e40ad3..40474b2 100644
+```
+
+Con los --- esta el archivo staged en git y con +++ es el archivo que contiene los cambios para hacer commit
+```bash
+--- a/1-aprende-git-en-una-hora.md
++++ b/1-aprende-git-en-una-hora.md
+```
+
+En el archivo a se tiene que en la linea 61 le siguen 7 lineas, pero git ha detectado cambios entonces detecta que en el archivo b despues de la linea 61 hay 10 lineas, es decir 3 extra.
+```bash
+@@ -61,7 +61,10 @@ git checkout -b nueva-rama
+```
+
+
+## Comando show
+
+Nos devuelve información de un commit, si lo pasamos sin argumentos nos devuelve la inforamción del ultimo commit.
+
+Muestra información como si fuera un [diff](#comando-diff)
+```bash
+git show 3fd578da9449b679cbb10a63041a0a655684d1b5
+```
+
+## Solucioanr conflictos
+
+Una forma para solucionar conflictos es el comando checkout mas una de las dos opciones: --ours, --theirs.
+
+El error tiene dos opciones, persistir los cambios de la rama padre (HEAD) o de la rama hijo, entonces se revisa el codigo y se elige que cambios dejar.
+
+En este comando se persinten los cambios del hijo en el archivo nombre_archivo.py
+```bash
+git checkout --theirs nombre_archivo.py
+```
+
+Despues agregar los cambios con un commit.
+

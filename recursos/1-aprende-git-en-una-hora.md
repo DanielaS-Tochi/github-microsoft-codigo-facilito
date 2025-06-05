@@ -61,8 +61,11 @@ git checkout -b nueva-rama
 
 ```bash
 git log           # Ver historial
+git log -n 5      # ver los ultimos 5 commits
 git log --oneline # Ver resumen
-git revert <commit-id>
+git log --oneline -n 3 # combinacion y resumen
+git log --format=[short full medium] # elegir uno segun cuanta inofrmación se necesita
+git revert <commit-id> # devuelve los cambios en un commit con un hash, est lo hace creando un nuevo commit con los cambios eliminados
 ```
 
 ## Repositorio remoto y sincronización
@@ -83,6 +86,9 @@ git stash list      # muestra una lista de todos los cambios que has guardado te
 git stash apply     # aplica los cambios guardados en el stash al área de trabajo actual.
 git stash clear     # elimina todos los stashes almacenados en el repositorio.
 git stash pop       # revierte los cambios guardados en el stash
+git stash pop stash@{3} # stash pop por defecto revierte el ultimo cambio y luego el penultimo, pero con este comando podemos indicar que stash especifico debe recuperar
+git stash --include-untracked # para añadir los cambios en archivos nuevos que aun no estan en seguimiento por git
+
 
 ```
 
