@@ -5,6 +5,8 @@ Guia practica de comandos utilices para aprender en git.
 ## Contenido
 
 - [Comando restore](#comando-restore)
+- [Comando grep](#comando-grep)
+- [Comando Blame](#comando-blame)
 
 
 ---
