@@ -50,7 +50,7 @@ $ git reset –soft HEAD~1 # deshace el commit, pero mantiene los cambios realiz
 ```
 • Para descartar cambios:
 ```bash
-$ git reset –hard HEAD~1 # desaparece totalemnte y son irrecuperables los cambios
+$ git reset –hard HEAD~1 # desaparece totalmente y son irrecuperables los cambios
 ```
 • Para modificar el commit (mensaje o agregar cambios):
 ```bash
@@ -103,7 +103,7 @@ $ git cherry-pick <Commit1> <Commit2> <...>
 
 ## Comando diff
 
-Partiendo del coamndo diff
+Partiendo del comando diff
 ```bash
 # añade los commits a la rama donde estoy parado
 $ git diff
@@ -122,7 +122,7 @@ index 3e40ad3..40474b2 100644
 +git log -n 5      # ver los ultimos 5 commits
  git log --oneline # Ver resumen
 +git log --oneline -n 3 # combinacion y resumen
-+git log --format=[short full medium] # elegir uno segun cuanta inofrmación se necesita
++git log --format=[short full medium] # elegir uno según cuanta información se necesita
  git revert <commit-id>
  ```
 
@@ -150,7 +150,7 @@ En el archivo a se tiene que en la linea 61 le siguen 7 lineas, pero git ha dete
 
 ## Comando show
 
-Nos devuelve informacion de un commit, si lo pasamos sin argumentos nos devuelve la inforamción del ultimo commit.
+Nos devuelve información de un commit, si lo pasamos sin argumentos nos devuelve la inforamción del ultimo commit.
 
 Muestra información como si fuera un [diff](#comando-diff)
 ```bash
